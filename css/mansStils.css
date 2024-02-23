@@ -1,0 +1,9 @@
+body {
+  background-image: url('../images/background-image_huger-simpler.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1, h2, h3, p, li, th, td {
+  color: black;
+}

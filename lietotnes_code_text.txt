@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Digitālie laika plānošanas rīki</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/mansStils.css">
+        <style>
+        table, th, td {
+          border:1px solid black;
+        }
+        </style>
+    </head>
+    <body>
+        <h1>Dažādu digitālo laika plānošanas rīku salīdzinājums</h1>
+        <table>
+            <tr>
+                <th>Lietotne</th>
+                <th>Apraksts</th>
+            </tr>
+            <tr>
+                <td>Clockify</td>
+                <td>Biznesam<br>
+                    Neierobežots grupas dalībnieku skaits<br>
+                    Bezmaksas rīki<br>
+                    Atskaites un vizuālizācijas labākai datu izprātnei<br>
+                    Precīzi laika grafiki ar advancētām funkcijām
+                </td>
+            </tr>
+            <tr>
+                <td>Asana</td>
+                <td>Task-menedžmentam<br>
+                    Ātrs, elastīgs, moderns dizains<br>
+                    Viegli piefiksēt uzdevumus un apakšuzdevumus projektam, kā arī uzstādīt dedlainus<br>
+                    Darba gaita ir vizuāli pārskatāmā<br>
+                    Kopīgs kalendārs un saziņa visiem projekta dalībniekiem
+                </td>
+            </tr>
+            <tr>
+                <td>Focus Booster</td>
+                <td>Individuālajai laika plānošanai pēc Pomodoro tehnikas<br>
+                    Sesijas pārskatāmas parastā darāmo lietu sarakstā<br>
+                    Sekot sesijām iespējams pat bez Interneta<br>
+                    Bezmaksas plāns ļauj sekot 20 Pomodoro sesijām mēnesī (83h)<br>
+                    Maksas plāns pievieno mērinstrumentu panēli, kas ļauj analizēt, kā lietotājs pavada laiku kopumā
+                </td>
+            </tr>
+            <tr>
+                <td>RescueTime</td>
+                <td>Līdzeklis pret prokrastināciju onlainā<br>
+                    Analizē visu lietotāja diennakts aktīvitāti telefona/datora lietotnēs un brauzerā<br>
+                    Bridina, kad pārāk daudz laika tiek pavadīts vienai darbībai<br>
+                    Var pat īslaicīgi bloķēt vispopulārakās prokrastinācijas veblapas<br>
+                    Piedavā padomes, kā var produktīvāk organizēt dienu
+                </td>
+            </tr>
+        </table>
+	<p><a href="Index1.html">Laika plānošana</a></p>
+    </body>
+</html>

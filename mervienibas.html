@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Informācijas daudzuma mērvienības</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+          body {
+            background-image: url('images/cipari.jpg');
+          }
+          form {
+            font-size: 20px;
+            background-color: rgb(220, 220, 0);
+          }
+        </style>
+    </head>
+    <body>
+        <h1>Informācijas daudzuma mērvienības</h1>
+        <form>
+            <p><input type="number" id="lauks1" name="lauks1">GB=</p>
+            <p><input type="button" value="Izteikt megabaitos" onclick="mainamb();">
+                <input type="number" id="lauks2" name="lauks2">MB</p>
+            <p><input type="button" value="Izteikt mibibaitos" onclick="mainamib();">
+                <input type="number" id="lauks3" name="lauks3">MiB</p>
+        </form>
+        <script>
+          function mainamb(){
+            let mb=lauks1.value;
+            lauks2.value=mb*1000;
+          }
+          function mainamib(){
+            let mib=lauks1.value;
+            lauks3.value=mib*953.67431640625;
+          }
+        </script>
+        <!-- TODO ask about decimal numbers -->
+    </body>
+</html>

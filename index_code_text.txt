@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Laika plānošana</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/mansStils.css">
+    </head>
+    <body>
+        <h1>Laika plānošana</h1>
+        <p>Laiks bieži vien paiet nemanot. Kur tas paliek? Studijas nozīmē sadalīt laiku, lai apmeklētu nodarbības, izpildītu mācību uzdevumus, mācītos patstāvīgi vai kopīgi ar kādu, gatavotos kontroldarbiem/eksāmeniem. Laika plānošanas problēmas ir visai izplatītas jauniešu vidū. 2006. gada oktobra nogalē LU veiktais pētījums par pirmā kursa studentiem liecina, ka 46% jauno studentu neprot plānot laiku. Daudzi studenti paralēli studijām strādā. Tādēļ jo īpaši būtiska ir laika plānošana, jo laiks jāiedala gan atpūtai, gan draugiem, gan ģimenei, gan brīvā laika aktivitātēm, sportam un saviem vaļaspriekiem. Laiks iedalās trīs galvenās jomās: augstskola, darbs un brīvais laiks. Kā tu izmanto savu laiku, tas atkarīgs no taviem mērķiem, vajadzībām un interesēm. Tu vari justies pašpaļāvīgāks, apmierinātāks un laimīgāks, ja pārraudzīsi savu laiku, tā iegūstot līdzsvarotāku dzīvi. Ja izjūti neapmierinātību, šaubas, aizvainojumu, kontroles izjūtas trūkumu pār notiekošo, tad vajadzētu pārbaudīt to, kā tu izmanto savu laiku. Ir svarīgi līdzsvarot laiku tā, lai gūtui gandarījumu no savas darbošanās.</p>
+        <img src="images/ieteikumi-laika-planosanai.webp" alt="image1" style="width:600px;height:315px">
+        <h2>Pārbaudi, kā ritējušas tavas pēdējās trīs dienas</h2>
+        <p>Cik daudz laika pavadīji skolā? (lekcijas, lasīšana, citas nodarbības..)<br>
+        Cik stundas esi strādājis? (algotajā darbā, uzkopjot māju, taisot ēst..)<br>
+        Cik daudz laika esi veltījis atslodzei? (laiks ar draugiem, ģimeni, runājot pa telefonu, skatoties TV, klausoties mūziku, izmantojot internetu, sportošanai, vaļaspriekiem u. c. brīvā laika aktivitātēm.<br>
+        Cik daudz laika esi gulējis vai snauduļojis?<br>
+        Cik daudz laika vēl pavadīji kādā citā veidā?
+        </p>
+        <p>Tagad uz atsevišķas lapas atbildi sev uz šādiem jautājumiem:</p>
+        <ul>
+            <li>Vai esi pārsteigts, ka kādā jomā tu esi izmantojis daudz vairāk laika, kā citās?</li>
+            <li>Kā tu to varētu sev izskaidrot?</li>
+            <li>Vai šis laika sadalījums ir tāds, kādu tu vēlējies?</li>
+            <li>Kā tev liekas, kurās nodarbēs tu izmanto pārāk daudz laika, bet ne sevišķi produktīvi? Apdomā to.</li>
+        </ul>
+        <h2>Ieteikums laika plānošanai</h2>
+        <img src="images/laika-planosana.jpg" alt="image2" style="width:600px;height:313px">
+        <p>Laika menedžmenta eksperts Džeimss Manktelovs no mindtools.com ir pārliecināts – viss būs kārtībā, ja katrai dienai būs skaidrs laika plāns.</p>
+        <p>Viņš iesaka:</p>
+        <p>1. Sāciet ar nākamās dienas veicamo darbu sarakstu. Vispirms pierakstiet uz lapas visus aktuālos darbus, tad sadaliet lapu trīs slejās (A, B, C) un sagrupējiet darbus pēc prioritātes:</p>
+        <ul>
+            <li>augsta prioritāte (A) – jūsu profesionālās prioritātes, darbi, kam beidzas termiņš, kā arī personīgi jums un tuvajiem cilvēkiem neatliekamas lietas,</li>
+            <li>vidēja prioritāte (B) – darbi, ko būtu labi paveikt šodien, bet ko var atlikt arī uz rītu,</li>
+            <li>zema prioritāte (C) – lietas, kas izdarāmas vēlāk vai deleģējamas citiem.</li>
+        </ul>
+        <p>2. Apsveriet, cik laika katrs darbs varētu prasīt. Sasummējiet to un novērtējiet, vai viss iecerētais maz ir ietilpināms vienā dienā. Pētījumi liecina, ka mēs varam saplānot tikai 60% laika– pārējais tiek patērēts iepriekš neparedzamām lietām. Tāpēc, ja plānotais pārsniedz 60% pieejamā laika, mazāk svarīgo uzreiz izsvītrojiet.</p>
+        <p>3. Ik vakaru pārbaudiet, vai visu izdevies paveikt. Ja ne – izanalizējiet, kas un kāpēc jūsu ikdienā patērē pārlieku daudz laika, bet kam tā allaž nepietiek. Ievērojiet šo principu vismaz četras nedēļas, un drīz pamanīsiet, ka jūsu dzīvē ir mazāk stresa, toties parādījies vairāk laika.</p>
+        <h3>Avoti</h3>
+        <a href="https://blog.swedbank.lv/ikdiena/budzeta-planosana/laika-planosana-3">blog.swedbank.lv</a><br>
+        <a href="https://www.lu.lv/studijas/studentu-sadzive/psihologa-atbalsts/ieteikumi-studijas/studiju-motivacija/laika-planosana/">www.lu.lv</a><br>
+        <a href="https://www.mozello.lv/blogs/triskarso-paveikto-jeb-8-laika-planosanas-strategijas">www.mozello.lv</a>
+        <p><a href="Lietotnes.html">Dažu laika plānošānas lietotņu salīdzinājums</a></p>
+    </body>
+</html>
